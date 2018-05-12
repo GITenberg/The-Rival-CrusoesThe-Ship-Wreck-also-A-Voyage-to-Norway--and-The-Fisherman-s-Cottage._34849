@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35719
     wikipedia: http://en.wikipedia.org/wiki/Agnes_Strickland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34849#The-Rival-CrusoesThe-Ship-Wreck-also-A-Voyage-to-Norway--and-The-Fisherman-s-Cottage.
 gutenberg_issued: '2011-01-04'
 gutenberg_type: Text
 identifiers:
